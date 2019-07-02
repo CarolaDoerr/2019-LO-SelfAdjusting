@@ -17,6 +17,6 @@ in which we prove performance guarantees for the (1+1) EA with self-adjusting mu
 ```
 
 Overview of the files: 
--- LO-n10k-Fixed-Target-Results.xlsx has data for the fixed-target plot (Figure 3 in the GECCO paper) for n=10,000. RLS_opt computation can be found on the second tab.
--- 10k-Summary-of-MatLabResults-Resampling(1+1)EA.xlsx summarizes a few selected results from our MatLab computations. Plots from Figure 2 can be found here.
--- NumericalEvaluation.nb can be used to compute the target mutation rates of the resampling (1+1) EA with self-adjusting mutation rates. Results for different success ratios s can be found in the "data" folder
+* LO-n10k-Fixed-Target-Results.xlsx has data for the fixed-target plot (Figure 3 in the GECCO paper) for n=10,000. RLS_opt computation can be found on the second tab.
+* 10k-Summary-of-MatLabResults-Resampling(1+1)EA.xlsx summarizes a few selected results from our MatLab computations. Plots from Figure 2 can be found here.
+* NumericalEvaluation.nb can be used to compute the target mutation rates of the resampling (1+1) EA with self-adjusting mutation rates. Results for different success ratios s can be found in the "data" folder
